@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Web Developer Intern",
+    "organisation": "Prodigy Infotech",
+    "startDate": "1 March, 2024",
+    "endDate": "31 March, 2024",
+    "experiences": ["Html5", "Css","JavaScript","Api Fetching"],
+    "imageSrc": "history/image.png"
+  },
+  {
+    "role": "Web Developer Intern",
+    "organisation": "CodSoft",
+    "startDate": "1 Oct, 2023",
+    "endDate": "31 Oct, 2023",
+    "experiences": ["Html5", "Css","JavaScript"],
+    "imageSrc": "history/codsoft.jpg"
+  }
+]

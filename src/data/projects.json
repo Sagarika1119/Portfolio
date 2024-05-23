@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Todo-List",
+    "imageSrc": "projects/Todo-List.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "http://127.0.0.1:5500/index.html",
+    "source": "https://github.com/Sagarika1119/TODO-LIST.git"
+  },
+  {
+    "title": "QR-Code-Generator",
+    "imageSrc": "projects/QR-Code-Generator.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "http://127.0.0.1:5500/index.html",
+    "source": "https://github.com/Sagarika1119/QR-Code-Generator.git"
+  },
+  {
+    "title": "Weather-App",
+    "imageSrc": "projects/weather-app.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://sagarika1119.github.io/PRODIGY_WD_05/",
+    "source": "https://github.com/Sagarika1119/PRODIGY_WD_05.git"
+  }
+]
